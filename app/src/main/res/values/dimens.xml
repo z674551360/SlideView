@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="tab_icon_width">22dp</dimen>
+    <dimen name="tab_icon_height">22dp</dimen>
+</resources>
